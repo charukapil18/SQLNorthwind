@@ -1,1 +1,1 @@
-# SQLNorthwind
+# This is a SQL Project
